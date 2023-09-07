@@ -1,2 +1,1 @@
-# JavaTest1
 # JavaTest
